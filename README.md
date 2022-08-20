@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-elaigwuresource/elaigwuresource is an ✨ ideal coding company based in NIGERIA
+elaigwuresource/elaigwuresource is an ✨ ideal coding company based in NIGERIA.We are looking to collaborate on various aspect of business like training, development
 --->
